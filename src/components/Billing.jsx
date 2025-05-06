@@ -10,10 +10,10 @@ const Billing = () => (
 
     <div className="flex-1 text-center md:text-left px-6 sm:px-12">
       <h2 className="text-4xl sm:text-5xl font-extrabold text-gray-900 leading-tight mb-4">
-        Easily control your <br className="hidden sm:block" /> billing & invoicing.
+        Seamlessly manage your <br className="hidden sm:block" /> money transfers & payments.
       </h2>
       <p className="text-lg text-gray-700 max-w-xl mx-auto md:mx-0 mt-5">
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices amet odio aenean neque. Fusce ipsum orci rhoncus aliquet porttitor integer platea placerat.
+        Send money across borders in seconds. Track transfers, view payment history, and stay in control—all in one secure, easy-to-use app.
       </p>
       <div className="flex flex-wrap justify-center md:justify-start gap-5 mt-6 sm:mt-10">
         <img src={apple.src} alt="apple" className="cursor-pointer w-[128px] h-[42px]" />

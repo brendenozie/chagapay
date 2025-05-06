@@ -61,7 +61,7 @@ const Hero = () => {
             Get Started
           </motion.button>
 
-          <div className="flex space-x-4 mt-6">
+{/*           <div className="flex space-x-4 mt-6">
             <motion.a
               whileHover={{ scale: 1.05 }}
               href="https://play.google.com/store"
@@ -80,7 +80,7 @@ const Hero = () => {
             >
               <img src={apple.src} alt="Apple Store" className="w-32 md:w-36 hover:opacity-90" />
             </motion.a>
-          </div>
+          </div> */}
         </motion.div>
 
         <motion.div
